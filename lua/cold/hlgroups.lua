@@ -547,6 +547,7 @@ function M.get(theme)
         ['NeotestSkipped'] = { link = 'WarningMsg' },
         ['NeotestFile'] = { link = 'Normal' },
         ['NeotestDir'] = { link = 'Directory' },
+        ['NeotestNamespace'] = { link = 'NeotestDir' },
 
         -- github.com/echasnovski/mini.indentscope
         ['MiniIndentscopeSymbol'] = { fg = theme.mini.indentscope.fg },
