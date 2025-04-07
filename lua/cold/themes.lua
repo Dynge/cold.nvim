@@ -678,10 +678,10 @@ local themes = {
                 },
                 spell = {
                     bad = {
-                        fg = palette.red_03,
+                        fg = palette.red_02,
                     },
                     cap = {
-                        fg = palette.yellow_03,
+                        fg = palette.yellow_01,
                     },
                     local_ = {
                         fg = palette.green_05,
