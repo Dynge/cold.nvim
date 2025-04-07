@@ -26,7 +26,7 @@ local themes = {
             fg = main.fg,
             editor = {
                 color_column = {
-                    bg = palette.grey_02,
+                    bg = palette.dark_03,
                 },
                 conceal = {
                     fg = palette.grey_02,
@@ -585,7 +585,7 @@ local themes = {
             fg = main.fg,
             editor = {
                 color_column = {
-                    bg = palette.grey_05,
+                    bg = palette.light_02,
                 },
                 conceal = {
                     fg = palette.grey_01,
