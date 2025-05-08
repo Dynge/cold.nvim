@@ -555,6 +555,10 @@ local themes = {
                     },
                 },
             },
+            render_markdown = {
+                code = { fg = palette.dark_03 },
+                code_border = { fg = palette.dark_04 },
+            },
         }
 
         return theme
@@ -1115,6 +1119,10 @@ local themes = {
                         fg = palette.blue_01,
                     },
                 },
+            },
+            render_markdown = {
+                code = { fg = palette.light_03 },
+                code_border = { fg = palette.light_04 },
             },
         }
 
