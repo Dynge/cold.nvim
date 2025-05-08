@@ -556,8 +556,8 @@ local themes = {
                 },
             },
             render_markdown = {
-                code = { fg = palette.dark_03 },
-                code_border = { fg = palette.dark_04 },
+                code = { bg = palette.dark_03 },
+                code_border = { bg = palette.dark_04 },
             },
         }
 
@@ -1121,8 +1121,8 @@ local themes = {
                 },
             },
             render_markdown = {
-                code = { fg = palette.light_03 },
-                code_border = { fg = palette.light_04 },
+                code = { bg = palette.light_03 },
+                code_border = { bg = palette.light_04 },
             },
         }
 
