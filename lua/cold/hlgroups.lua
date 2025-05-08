@@ -645,6 +645,10 @@ function M.get(theme)
             fg = theme.dapui.breakpoints.current_line.fg,
         },
         ['DapUIModifiedValue'] = { fg = theme.dapui.scopes.mod_value.fg },
+        ['RenderMarkdownCode'] = { fg = theme.render_markdown.code.fg },
+        ['RenderMarkdownCodeBorder'] = {
+            fg = theme.render_markdown.code_border.fg,
+        },
     }
 end
 
