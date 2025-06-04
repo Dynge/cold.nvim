@@ -414,23 +414,21 @@ local themes = {
             },
             fzf = {
                 normal = {
-                    bg = palette.dark_04,
+                    bg = main.bg,
                 },
                 border = {
-                    bg = palette.dark_04,
-                    fg = palette.dark_04,
+                    fg = palette.grey_01,
                 },
                 preview = {
                     normal = {
                         bg = main.bg,
                     },
                     border = {
-                        bg = main.bg,
-                        fg = main.bg,
+                        fg = palette.grey_01,
                     },
                     title = {
                         bg = main.bg,
-                        fg = main.bg,
+                        fg = palette.pink_01,
                     },
                 },
             },
@@ -976,23 +974,21 @@ local themes = {
             },
             fzf = {
                 normal = {
-                    bg = palette.light_01,
+                    bg = main.bg,
                 },
                 border = {
-                    bg = palette.light_01,
-                    fg = palette.light_01,
+                    fg = palette.grey_08,
                 },
                 preview = {
                     normal = {
                         bg = main.bg,
                     },
                     border = {
-                        bg = main.bg,
-                        fg = main.bg,
+                        fg = palette.grey_08,
                     },
                     title = {
-                        bg = main.bg,
-                        fg = main.bg,
+                        bg = main.fg,
+                        fg = palette.pink_01,
                     },
                 },
             },

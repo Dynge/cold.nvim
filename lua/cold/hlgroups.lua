@@ -464,12 +464,10 @@ function M.get(theme)
         -- github.com/ibhagwan/fzf-lua
         ['FzfLuaNormal'] = { bg = theme.fzf.normal.bg },
         ['FzfLuaBorder'] = {
-            bg = theme.fzf.border.bg,
             fg = theme.fzf.border.fg,
         },
         ['FzfLuaPreviewNormal'] = { link = 'Normal' },
         ['FzfLuaPreviewBorder'] = {
-            bg = theme.fzf.preview.border.bg,
             fg = theme.fzf.preview.border.fg,
         },
         ['FzfLuaPreviewTitle'] = {
